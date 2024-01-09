@@ -17,8 +17,8 @@
       },
       {
         "title": "Documentation",
-        "scorePercent": 25,
-        "scoreLabel": "Red",
+        "scorePercent": 100,
+        "scoreLabel": "Green",
         "scoreSuccess": "failure"
       },
       {
