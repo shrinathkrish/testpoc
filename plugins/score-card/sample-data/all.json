@@ -19,7 +19,7 @@
         "title": "Documentation",
         "scorePercent": 100,
         "scoreLabel": "Green",
-        "scoreSuccess": "failure"
+        "scoreSuccess": "success"
       },
       {
         "title": "Operations",
